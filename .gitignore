@@ -1,0 +1,13 @@
+# VSCode
+.idea
+.vscode
+
+# Aws CDK
+cdk.out
+
+#Local environment
+.env
+venv
+__pycache__
+json_logging*
+pytz*
